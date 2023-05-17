@@ -1,6 +1,13 @@
+# <!>PLEASE NOTE<!>
+This is a forked [project](http://www.secretgeek.net/devshop_i) developed by [secretGeek](https://github.com/secretGeek).
+
+ALL rights and credits go to them first!
+
+Without them this would not be here.
+
 # DevShop!
 
-I had this idea 10 years ago for a game called [DevShop](http://www.secretgeek.net/devshop_i) and finally decided to implement a minimal version of it.
+[I](https://github.com/secretGeek) had this idea 10 years ago for a game called [DevShop](http://www.secretgeek.net/devshop_i) and finally decided to implement a minimal version of it.
 
 It's a kind of 'lemonade stand' game, but instead of buying lemons 🍋 and making lemonade 🍹, you hire developers 💻, testers 🔬 and business analysts 🗣, and complete tasks on a kanban board.
 
